@@ -1,0 +1,17 @@
+{
+    "name": "qiuyu/helloworld",
+    "description": "This is a Test for Laravel package.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qiuyu",
+            "email": "530004000@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "QiuYu\\HelloWorld\\": "src/"
+        }
+    }
+}
